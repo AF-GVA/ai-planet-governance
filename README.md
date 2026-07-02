@@ -2,7 +2,7 @@
 
 A governance-first resource at the intersection of artificial intelligence, conservation, climate, and planetary stewardship.
 
-Maintained by [Alex Fayet](https://www.linkedin.com/in/alexfayet), Director, Data, AI & Platforms at WWF International.
+Maintained by [Alex Fayet](https://www.linkedin.com/in/alexfayet), personal curation, independent of any organisational position.
 
 > Governance-first curation at the intersection of AI, conservation, and planetary stewardship. A secondary annex covers implementation tools for context. Each entry is tagged by source type; see the [legend](#evidence-tier-legend). URLs verified March 2026, with additions verified July 2026; volatile entries carry individual verification notes. Personal curation, not an official WWF position.
 
