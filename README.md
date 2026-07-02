@@ -4,7 +4,7 @@ A governance-first resource at the intersection of artificial intelligence, cons
 
 Maintained by [Alex Fayet](https://www.linkedin.com/in/alexfayet), Director, Data, AI & Platforms at WWF International.
 
-> Governance-first curation at the intersection of AI, conservation, and planetary stewardship. A secondary annex covers implementation tools for context. Each entry is tagged by source type; see the [legend](#evidence-tier-legend). URLs verified March 2026; volatile entries carry individual verification notes. Personal curation, not an official WWF position.
+> Governance-first curation at the intersection of AI, conservation, and planetary stewardship. A secondary annex covers implementation tools for context. Each entry is tagged by source type; see the [legend](#evidence-tier-legend). URLs verified March 2026, with additions verified July 2026; volatile entries carry individual verification notes. Personal curation, not an official WWF position.
 
 ---
 
@@ -16,6 +16,19 @@ This repository is organised around four questions every conservation organisati
 2. **What nature and climate laws already address AI, and are they being applied?**
 3. **What is AI actually costing the planet, and who is measuring it?**
 4. **What has the conservation sector itself said about AI, and is it enough?**
+
+---
+
+## Start Here
+
+New here? These entry points beat reading top to bottom:
+
+* **You set procurement or vendor policy** → [Implementation standards](#implementation-standards) and [What AI Is Actually Costing the Planet](#what-ai-is-actually-costing-the-planet) — the standards and footprint benchmarks to write into contracts.
+* **You shape policy or advocacy** → [The AI Governance Stack](#the-ai-governance-stack) and [Where Both Stacks Meet](#where-both-stacks-meet).
+* **You deploy conservation AI** → [Failure modes relevant to conservation AI](#failure-modes-relevant-to-conservation-ai) and the [Implementation Annex](#implementation-annex-ai-in-practice-conservation-tools-and-datasets).
+* **You advise a board or leadership team** → the four questions above, then the [Governance Checklist](#putting-it-into-practice-a-conservation-ai-governance-checklist).
+
+**Ready to act?** Go straight to the [Conservation AI Governance Checklist](#putting-it-into-practice-a-conservation-ai-governance-checklist).
 
 ---
 
@@ -58,12 +71,13 @@ The frameworks below define the rules of the road for AI development and deploym
 
 ### Global normative frameworks
 
-* `Intergovernmental forum` [UN Global Dialogue on AI Governance](https://www.un.org/global-dialogue-ai-governance/en). Established by the UN General Assembly in August 2025. The first inclusive multilateral platform for deliberating AI governance norms. First session in Geneva, July 2026. Open for stakeholder input. *Conservation link: the moment to embed environmental guardrails at the global level. *[Verified March 2026]**
+* `Intergovernmental forum` [UN Global Dialogue on AI Governance](https://www.un.org/global-dialogue-ai-governance/en). Established by the UN General Assembly in August 2025. The first inclusive multilateral platform for deliberating AI governance norms. First session in Geneva, July 2026. Open for stakeholder input. *Conservation link: the moment to embed environmental guardrails at the global level.* *[Verified March 2026]*
 * `Intergovernmental assessment` [UN Independent International Scientific Panel on AI](https://www.un.org/independent-international-scientific-panel-ai/en). 40 independent experts mandated to produce annual evidence-based assessments on AI's opportunities, risks, and impacts. First report expected July 2026. *Conservation link: independent science on AI risk; conservation expertise should inform this process.*
 * `International convention` [Council of Europe: Framework Convention on AI (2024)](https://www.coe.int/en/web/artificial-intelligence/the-framework-convention-on-artificial-intelligence). First legally binding international AI treaty, open to non-Council of Europe states. Covers the full AI lifecycle. *Conservation link: human rights framework that conservation surveillance must comply with.*
 * `Intergovernmental norm` [OECD AI Principles (2019, updated 2024)](https://oecd.ai/en/ai-principles). First intergovernmental AI standard, adopted by 46 countries. Updated in 2024 to address generative AI risks. *Conservation link: accountability and environmental wellbeing as governance baselines.*
 * `Intergovernmental norm` [Global Digital Compact (A/RES/79/1, 2024)](https://www.un.org/global-digital-compact/en). First comprehensive global framework for digital cooperation and AI governance, adopted at the UN Summit of the Future. Links AI governance to SDG delivery and open digital public goods. *Conservation link: biodiversity data as a digital public good; SDG 14 and 15 alignment.* *[Verified March 2026]*
 * `Intergovernmental norm` [UNESCO Recommendation on the Ethics of AI (2021)](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics). The only global AI ethics framework adopted by all 193 UNESCO member states. Environmental sustainability is an explicit cross-cutting principle. *Conservation link: planetary sustainability is already in the text; conservation organisations can invoke it.*
+* `Intergovernmental norm` [AI Impact Summit: New Delhi Declaration on AI Impact (2026)](https://pib.gov.in/PressReleasePage.aspx?PRID=2234343). Adopted February 2026 by around 90 countries and international organisations. The successor to the 2025 Paris AI Action Summit; energy efficiency and resilience of AI systems is one of its seven pillars, and the Summit released an AI-in-Energy casebook with the IEA. *Conservation link: confirms AI's environmental footprint is now a standing head-of-state agenda item — and an entry point for conservation input into the summit series.* *[Verified July 2026]*
 
 ### Expert guidance and regulatory precursors
 
@@ -116,6 +130,7 @@ The frameworks below govern nature and climate. Most were written before large-s
 * `Intergovernmental assessment` [IPBES Transformative Change Assessment (2024)](https://www.ipbes.net/transformative-change-assessment). Examines systemic shifts needed to reverse biodiversity loss, including the role of digital and AI-based approaches. Accepted at IPBES 11, Windhoek. [Summary for Policymakers (PDF)](https://doi.org/10.5281/zenodo.11382230)
 * `Intergovernmental norm` [Kunming-Montreal Global Biodiversity Framework (GBF, 2022)](https://www.cbd.int/gbf). 196 countries. Target 21 requires open access to the best available biodiversity data. Decision 15/9 governs digital sequence information on genetic resources, directly relevant to AI training datasets. [Full text (PDF)](https://www.cbd.int/doc/decisions/cop-15/cop-15-dec-04-en.pdf) · [Targets overview](https://www.cbd.int/gbf/targets)
 * `International convention` [Convention on Biological Diversity (CBD)](https://www.cbd.int). Primary UN framework for biodiversity governance. Access and benefit sharing, DSI policy, and national biodiversity strategies all have AI dimensions that are only beginning to be worked through.
+* `Intergovernmental initiative` [The Cali Fund (CBD, 2025)](https://www.cbd.int/article/cali-fund-launch-2025). Launched February 2025 under CBD Decision 16/2. The first global mechanism for fair and equitable benefit-sharing from digital sequence information (DSI) on genetic resources. Commercial DSI users — a list that explicitly names artificial intelligence — are expected to contribute a share of profits or revenue, with at least 50% directed to Indigenous peoples and local communities. *Conservation link: the finance-and-equity answer to "who benefits when AI trains on genetic and biodiversity data?" — the operational counterpart to GBF Decision 15/9.* *[Verified July 2026]*
 * `Governance principles` [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care). Collective Benefit, Authority to Control, Responsibility, Ethics. The counterpart to FAIR data principles for Indigenous contexts. Non-negotiable for any conservation AI system drawing on Indigenous ecological knowledge or community-collected data.
 * `Intergovernmental assessment` [IPBES Global Assessment Report (2019)](https://www.ipbes.net/node/35274). The foundational scientific case for why biodiversity loss is a governance emergency. Better monitoring tools, including AI, matter for the same reason. [Summary for Policymakers (PDF)](https://doi.org/10.5281/zenodo.3553579)
 * `Tool` [UN Biodiversity Lab](https://unbiodiversitylab.org). Joint UNDP/UNEP/CBD platform providing spatial data and AI-assisted tools to support GBF implementation and 30x30 reporting.
@@ -178,7 +193,7 @@ These are the documents that do not sit cleanly in either stack. They require bo
 ### Core accountability frameworks
 
 * `Intergovernmental initiative` [Coalition for Environmentally Sustainable AI (UNEP / France / ITU, 2025)](https://www.unep.org/news-and-stories/press-release/new-coalition-aims-put-artificial-intelligence-more-sustainable-path). 100+ partners, 37 tech companies, 11 countries. Launched at the Paris AI Action Summit. Focused on standardised lifecycle metrics and mandatory disclosure. The regulatory trajectory conservation organisations should track.
-*  `Media` [Reuters: UN Secretary-General Calls on AI Firms to Come Clean on Environmental Costs (2026)](https://www.reuters.com/legal/litigation/un-chief-calls-ai-firms-come-clean-environmental-costs-2026-06-23/). At London Climate Action Week in June 2026, UN Secretary-General António Guterres called on AI companies to publicly disclose the energy, water, and greenhouse-gas emissions of their systems and data centres. The highest-level political signal yet that footprint disclosure is becoming an expectation rather than a courtesy — direct backing for conservation organisations demanding transparency from AI vendors in procurement and partnership. *[Verified July 2026]*
+* `Media` [Reuters: UN Secretary-General Calls on AI Firms to Come Clean on Environmental Costs (2026)](https://www.reuters.com/legal/litigation/un-chief-calls-ai-firms-come-clean-environmental-costs-2026-06-23/). At London Climate Action Week in June 2026, UN Secretary-General António Guterres called on AI companies to publicly disclose the energy, water, and greenhouse-gas emissions of their systems and data centres. The highest-level political signal yet that footprint disclosure is becoming an expectation rather than a courtesy — direct backing for conservation organisations demanding transparency from AI vendors in procurement and partnership. *[Verified July 2026]*
 * `Institutional report` [UNEP: AI End-to-End Environmental Impact (2024)](https://www.unep.org/resources/report/artificial-intelligence-ai-end-end-environmental-impact-full-ai-lifecycle-needs-be). UNEP's primary issue note. Full lifecycle: energy, water, minerals, e-waste. Recommends standardised measurement methods and mandatory corporate reporting. The starting point for any institutional AI sustainability policy. [Direct PDF](https://wedocs.unep.org/bitstreams/07b3c8fc-bd30-4b92-b5f4-d665e927b59d/download)
 * `Institutional report` [ITU: Measuring What Matters, How to Assess AI's Environmental Impact (2025)](https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-GDA.001-2025-PDF-E.pdf). Direct PDF. Published by the International Telecommunication Union. Practical guidance for organisations seeking standardised, comparable assessment of AI's environmental impacts across energy, water, and materials. Complements ITU-T L.1480 (the net-impact measurement standard) with an accessible assessment methodology for practitioners.
 * `Peer-reviewed` [Vandenbergh, Thorpe, Gilligan: The Energy and Environmental Footprint of AI (Vanderbilt Law Research Paper 25-11, 2025)](https://ssrn.com/abstract=5400891). The first legal analysis that frames AI's electricity demand and environmental impacts through the lens of environmental law. Argues that information disclosure to individual, corporate, and other users can reduce AI's environmental impacts without slowing development. Provides the first comparison of outputs from four AI environmental footprint calculators, finding significant discrepancies between tools. Directly relevant to conservation organisations building disclosure requirements into AI governance frameworks.
@@ -218,6 +233,7 @@ These are the documents that do not sit cleanly in either stack. They require bo
 
 * `Institutional report` [IEA: Energy and AI (2025)](https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai). Base-case projection: approximately 945 TWh by 2030. The primary IEA reference for AI energy demand planning.
 * `Institutional report` [IEA: Electricity 2024, Data Centres and AI](https://www.iea.org/reports/electricity-2024/executive-summary). Global data centre electricity consumption could exceed 1,000 TWh by 2026, up from 460 TWh in 2022.
+* `Institutional report` [Stanford HAI: AI Index Report — Energy and Environment analysis (2025, updated 2026)](https://hai.stanford.edu/ai-index). The most widely cited annual benchmark on the state of AI; recent editions add a dedicated assessment of AI training's energy requirements and environmental impact, alongside hardware and inference-cost trends. *Conservation link: the neutral, academic reference point for AI's efficiency and footprint trajectory — more persuasive in board and policy settings than an advocacy report.*
 * `Institutional report` [UNEP: Navigating New Horizons (2024)](https://www.unep.org/resources/global-foresight-report). AI identified as one of eight critical global shifts accelerating the triple planetary crisis. [Direct PDF](https://wedocs.unep.org/20.500.11822/45890)
 
 ### Net positive frameworks
@@ -267,11 +283,12 @@ These are the documents that do not sit cleanly in either stack. They require bo
 ## What Conservation Has Said About AI
 *The governance gap, and what currently exists*
 
-* `TNC's April 2026 position: AI augments rather than replaces human expertise, infrastructure assessed case-by-case on energy/water/ecological grounds, priority on avoiding harm and supporting restoration.`( https://www.nature.org/en-us/what-we-do/our-insights/perspectives/responsible-ai-use-infrastructure-development/(opens in new window)) 
+> As of July 2026, no major international conservation NGO has published a comprehensive, standalone AI policy or set of guiding principles — though the gap is beginning to close. In April 2026, The Nature Conservancy became the first large conservation organisation to publish a public position on responsible AI use and infrastructure (see below), and IUCN Resolution 140 (2025) mandates the sector to develop union-wide policy. Both are first steps rather than finished frameworks: the governance gap remains. What follows represents the most visible publicly identified examples from this scan. 
 
 ### Formal sector commitments
 
 * `Institutional commitment` [IUCN Resolution 140 (WCC 2025)](https://portals.iucn.org/library/sites/library/files/resrecfiles/WCC_2025_RES_140_EN.pdf). Direct PDF. See entry in *Where Both Stacks Meet* above. Listed again here because it is the foundational document for this entire section.
+* `Institutional commitment` [The Nature Conservancy: Responsible AI Use and Related Infrastructure Development (2026)](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/responsible-ai-use-infrastructure-development/). Published April 2026. The first public position on responsible AI from a major international conservation NGO. AI is used to augment human expertise, not replace it — under human oversight, scientific judgment, and clear governance; AI use and its supporting infrastructure (data centres, energy, water) are assessed case-by-case, weighing energy and water demands, ecological effects, and whether affected people have a meaningful voice, with priority on avoiding harm, minimising risk, and supporting restoration where impacts cannot be avoided. A public position statement rather than a full operational policy, but the clearest peer-organisation precedent to date. *[Verified July 2026]*
 * `Institutional commitment` [WCS, Pawanka Fund, Inclusive Conservation Academy: Joint Statement on Indigenous Peoples' Rights and AI (2025)](https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/24897/Indigenous-Peoples-Rights-at-the-Intersection-of-Conservation-and-Artificial-Intelligence-AI.aspx). Published 8 August 2025. Frames AI data sovereignty as a conservation governance issue. Calls for FPIC and UNDRIP compliance. Asserts that Indigenous knowledge must not be appropriated through AI training pipelines.
 * `Expert guidelines` [Principles on Artificial Intelligence for Biodiversity Conservation (2022)](https://ai-ethics-and-governance.institute/2022/09/22/principles-on-artificial-intelligence-for-biodiversity-conservation/). Chinese Academy of Sciences / Tsinghua / TU Munich / World Animal Protection. The earliest dedicated principles document for AI and biodiversity. Proposes an ecocentric reorientation: from anthropocentrism toward biodiversity-centred values.
 
@@ -287,6 +304,25 @@ These are the documents that do not sit cleanly in either stack. They require bo
 
 * `Peer-reviewed` [How are Environmental NGOs Setting the Agenda on AI Governance? (Environmental Politics, 2026)](https://www.tandfonline.com/doi/full/10.1080/09644016.2026.2616982). Maps ENGO engagement with AI governance. First-movers are hybrid organisations combining digital and environmental interests. Collectively coherent but still piecemeal playbook. Published January 2026.
 * `Governance principles` [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care). Global Indigenous Data Alliance. The non-negotiable framework for conservation AI that touches Indigenous knowledge. See full entry under *Biodiversity Governance Stack.*
+
+---
+
+## Putting It Into Practice: A Conservation AI Governance Checklist
+
+Ten questions to ask before deploying — or funding — a conservation AI system. Each maps to a section of this repository.
+
+1. **Governance basis.** Do we run this under an auditable AI management system? → [Implementation standards](#implementation-standards)
+2. **Footprint accounting.** Can we state the system's energy, water, and carbon cost? → [What AI Is Actually Costing the Planet](#what-ai-is-actually-costing-the-planet)
+3. **Net-positive test.** Does the environmental benefit demonstrably exceed that footprint? → [Net positive frameworks](#net-positive-frameworks)
+4. **Vendor transparency.** Have we required suppliers to disclose their models' footprint? → [Core accountability frameworks](#core-accountability-frameworks)
+5. **Bias.** Have we tested for species, geographic, and taxonomic bias in the training data? → [Implementation standards](#implementation-standards) (ISO/IEC 24027)
+6. **Privacy and surveillance.** Could this expose threatened-species locations or surveil communities without consent? → [Failure modes relevant to conservation AI](#failure-modes-relevant-to-conservation-ai)
+7. **Explainability.** Can the outputs be interrogated before they inform policy or finance? → [Failure modes relevant to conservation AI](#failure-modes-relevant-to-conservation-ai)
+8. **Data sovereignty.** Does any input draw on Indigenous or community knowledge, or on digital sequence information? → [The Nature and Climate Governance Stack](#the-nature-and-climate-governance-stack) (CARE Principles; the Cali Fund)
+9. **Human oversight.** Is a named, qualified person accountable for every consequential output? → [What Conservation Has Said About AI](#what-conservation-has-said-about-ai) (TNC position)
+10. **Regulatory horizon.** Are we tracking the rules that will bind us — the EU AI Act, the GBF, summit declarations? → [The AI Governance Stack](#the-ai-governance-stack)
+
+*A starting framework for responsible deployment, not legal or compliance advice.*
 
 ---
 
