@@ -2,7 +2,7 @@
 
 A governance-first resource at the intersection of artificial intelligence, conservation, climate, and planetary stewardship.
 
-Maintained by [Alex Fayet](https://www.linkedin.com/in/alexfayet), Head of Global Data and AI at WWF International.
+Maintained by [Alex Fayet](https://www.linkedin.com/in/alexfayet), Director, Data, AI & Platforms at WWF International.
 
 > Governance-first curation at the intersection of AI, conservation, and planetary stewardship. A secondary annex covers implementation tools for context. Each entry is tagged by source type; see the [legend](#evidence-tier-legend). URLs verified March 2026; volatile entries carry individual verification notes. Personal curation, not an official WWF position.
 
@@ -178,6 +178,7 @@ These are the documents that do not sit cleanly in either stack. They require bo
 ### Core accountability frameworks
 
 * `Intergovernmental initiative` [Coalition for Environmentally Sustainable AI (UNEP / France / ITU, 2025)](https://www.unep.org/news-and-stories/press-release/new-coalition-aims-put-artificial-intelligence-more-sustainable-path). 100+ partners, 37 tech companies, 11 countries. Launched at the Paris AI Action Summit. Focused on standardised lifecycle metrics and mandatory disclosure. The regulatory trajectory conservation organisations should track.
+*  `Media` [Reuters: UN Secretary-General Calls on AI Firms to Come Clean on Environmental Costs (2026)](https://www.reuters.com/legal/litigation/un-chief-calls-ai-firms-come-clean-environmental-costs-2026-06-23/). At London Climate Action Week in June 2026, UN Secretary-General António Guterres called on AI companies to publicly disclose the energy, water, and greenhouse-gas emissions of their systems and data centres. The highest-level political signal yet that footprint disclosure is becoming an expectation rather than a courtesy — direct backing for conservation organisations demanding transparency from AI vendors in procurement and partnership. *[Verified July 2026]*
 * `Institutional report` [UNEP: AI End-to-End Environmental Impact (2024)](https://www.unep.org/resources/report/artificial-intelligence-ai-end-end-environmental-impact-full-ai-lifecycle-needs-be). UNEP's primary issue note. Full lifecycle: energy, water, minerals, e-waste. Recommends standardised measurement methods and mandatory corporate reporting. The starting point for any institutional AI sustainability policy. [Direct PDF](https://wedocs.unep.org/bitstreams/07b3c8fc-bd30-4b92-b5f4-d665e927b59d/download)
 * `Institutional report` [ITU: Measuring What Matters, How to Assess AI's Environmental Impact (2025)](https://www.itu.int/dms_pub/itu-s/opb/gen/S-GEN-GDA.001-2025-PDF-E.pdf). Direct PDF. Published by the International Telecommunication Union. Practical guidance for organisations seeking standardised, comparable assessment of AI's environmental impacts across energy, water, and materials. Complements ITU-T L.1480 (the net-impact measurement standard) with an accessible assessment methodology for practitioners.
 * `Peer-reviewed` [Vandenbergh, Thorpe, Gilligan: The Energy and Environmental Footprint of AI (Vanderbilt Law Research Paper 25-11, 2025)](https://ssrn.com/abstract=5400891). The first legal analysis that frames AI's electricity demand and environmental impacts through the lens of environmental law. Argues that information disclosure to individual, corporate, and other users can reduce AI's environmental impacts without slowing development. Provides the first comparison of outputs from four AI environmental footprint calculators, finding significant discrepancies between tools. Directly relevant to conservation organisations building disclosure requirements into AI governance frameworks.
@@ -266,7 +267,7 @@ These are the documents that do not sit cleanly in either stack. They require bo
 ## What Conservation Has Said About AI
 *The governance gap, and what currently exists*
 
-> As of March 2026, I have not identified any major conservation organisation (TNC, CI, BirdLife, Fauna & Flora) that has published a formal AI policy or guiding principles. This is itself a governance failure. The IUCN Resolution 140 (2025) is the most significant step to date: it mandates the sector to develop such policy. What follows represents the most visible publicly identified examples from this scan.
+* `TNC's April 2026 position: AI augments rather than replaces human expertise, infrastructure assessed case-by-case on energy/water/ecological grounds, priority on avoiding harm and supporting restoration.`( https://www.nature.org/en-us/what-we-do/our-insights/perspectives/responsible-ai-use-infrastructure-development/(opens in new window)) 
 
 ### Formal sector commitments
 
